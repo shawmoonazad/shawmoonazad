@@ -9,9 +9,7 @@
 
 ### Graduate Research Assistant, Department of Computer Science, Cleveland State University
 
-I design and evaluate quantum-safe communication systems, hybrid quantum-classical algorithms, and applied AI pipelines for secure, practical, and measurable deployment.
-
-</div>
+I work on quantum information security, hybrid quantum-classical algorithms, and applied AI to design and evaluate quantum-safe communication systems.
 
 ---
 
