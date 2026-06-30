@@ -55,7 +55,7 @@ flowchart LR
     F --> H["Compact NISQ Models"]
     G --> H
     I["Applied AI"] --> J["Explainable ML"]
-    I --> K["Healthcare and Behavioral Analytics"]
+    I --> K["Reinformcement Learning"]
     J --> L["Quantum Circuit Design"]
     K --> L
 ```
