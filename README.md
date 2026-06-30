@@ -46,7 +46,7 @@ I design and evaluate quantum-safe communication systems, hybrid quantum-classic
 
 ```mermaid
 flowchart LR
-    A["Quantum-Safe Security"] --> B["QKD Protocols"]
+    A["Quantum Information Secuirty"] --> B["QKD Protocols"]
     A --> C["Post-Quantum Cryptography"]
     B --> D["Secure Image, Audio, and Cloud Communication"]
     C --> D
@@ -56,7 +56,7 @@ flowchart LR
     G --> H
     I["Applied AI"] --> J["Explainable ML"]
     I --> K["Healthcare and Behavioral Analytics"]
-    J --> L["Trustworthy Decision Support"]
+    J --> L["Quantum Circuit Design"]
     K --> L
 ```
 
