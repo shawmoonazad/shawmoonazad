@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,42:0e7490,100:14b8a6&text=Md%20Shawmoon%20Azad&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=PhD%20Student%20%7C%20Quantum-Safe%20Systems%20%7C%20Applied%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Md Shawmoon Azad research profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,42:0e7490,100:14b8a6&text=Md%20Shawmoon%20Azad&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Graduate%20Researcher%20%7C%20Quantum-Safe%20Systems%20%7C%20Applied%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Md Shawmoon Azad research profile banner" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shawmoonazad.github.io-0f766e?style=for-the-badge&logo=githubpages&logoColor=white)](https://shawmoonazad.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-2563eb?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qiLaY-AAAAAJ)
